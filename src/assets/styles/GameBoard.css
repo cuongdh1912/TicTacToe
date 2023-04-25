@@ -1,0 +1,22 @@
+.ResetStyle {
+    background: green   ;
+    width: 80px;
+    height: 40px;
+    color: white;
+    font-weight: bold;
+}
+
+.MainDivStyle {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+}
+
+.RowDivStyle {
+    display: flex;
+    justify-content: center;
+    vertical-align: center;
+    align-items: center
+}
